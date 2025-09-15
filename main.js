@@ -58,7 +58,7 @@ if (window.location.pathname.includes('/mod/page/')) {
       }
   }
   
-alert("✅ Educação Profissional Quiz by @KevinBorgiani ✅");
+alert("✅ Respostas Reveladas by @KevinBorgiani ✅");
 
 showCorrectAnswers();
 }
